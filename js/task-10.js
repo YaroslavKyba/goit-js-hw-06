@@ -12,7 +12,9 @@ const btnDestroyEl = document.querySelector("button[data-destroy]");
 
 btnCreateEl.addEventListener("click", createBoxes);
 
-function createBoxes(amount) {}
+function createBoxes(amount) { }
+
+function () { };
 
 // // Напиши скрипт створення і очищення колекції елементів. Користувач вводить кількість елементів в input
 // і натискає кнопку Створити, після чого рендериться колекція.Натисненням на кнопку Очистити,
